@@ -40,7 +40,8 @@ public class Ayah extends Manusia implements PekerjaanLuar, PekerjaanRumah, Mend
     public void berangkat() {
         System.out.println(getNama() + " berangkat bekerja pada pukul 07.00 WIB");
     }
-    
+
+    //oke
     public void pulang() {
         System.out.println(getNama() + " pulang bekerja pada pukul 04.00 WIB");
     }
@@ -97,3 +98,4 @@ public class Ayah extends Manusia implements PekerjaanLuar, PekerjaanRumah, Mend
     }
 
 }
+
